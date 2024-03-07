@@ -1,4 +1,4 @@
-#List comprehensions
+# List comprehensions
 > **List comprehensions** nos ayuda a simplificar la creación de nuestras listas en python, donde en vez de tener varias líneas de codigo definiendo el contenido que tendra la lista, podremos establecer de forma rapida, legible y en una sola linea, como estara construida nuestra lista.
 ---
 > Hay varias formas de utilizar **List comprehensions**, las siguientes son las más comunes:
@@ -22,7 +22,7 @@
 </ul>
 
 
-#**Ejercicios**
+# **Ejercicios**
 >Los siguientes 8 ejercicios están ordenados por dificultad
 1. **Multiplos de 3 o 5**: Genera una lista de los múltiplos de 3 o 5 en el rango del 1 al 50 usando comprensión de listas.
 2. **Palabras más largas**: Dada la lista de palabras: `["Carmona","Carrusel","carro","Caro","Piel","Cafe","Miguel","Barro","Piso"]`, crea una nueva lista que contenga las palabras con más de 5 letras utilizando comprensión de listas.
